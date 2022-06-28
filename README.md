@@ -1,11 +1,8 @@
-![](https://drive.google.com/file/d/1DlvNdESlpFmi9GIPk351wTYJrfsPJfoe/view?usp=sharing)
-<h1 align="center">Hi 👋, I'm Anshul Singh</h1>
+![](https://github.com/anshulsingh8101/anshulsingh8101/blob/main/linkedin_profile_pic.png?raw=true)
+<h1 align="center">Hola 👋, I'm Anshul Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulsingh8101&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsingh8101" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anxxhul" target="blank"><img src="https://img.shields.io/twitter/follow/anxxhul?logo=twitter&style=for-the-badge" alt="anxxhul" /></a> </p>
 
 - 🔭 I’m currently working with [Samsung SDS](https://www.samsungsds.com/india/en/)
 
@@ -19,7 +16,7 @@
 
 - 📫 How to reach me **anshulsingh8101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B0q-XJdor04-z7NZS3FekPdgiMbIM9Z_/view?usp=sharing](https://drive.google.com/file/d/1B0q-XJdor04-z7NZS3FekPdgiMbIM9Z_/view?usp=sharing)
+- 📄 Know about my experiences/ My Resume [https://drive.google.com/file/d/1B0q-XJdor04-z7NZS3FekPdgiMbIM9Z_/view?usp=sharing](https://drive.google.com/file/d/1B0q-XJdor04-z7NZS3FekPdgiMbIM9Z_/view?usp=sharing)
 
 - ⚡ Fun fact **Because of my huge front tooth, I was nicknamed Beaver at junior school😂🦫**
 

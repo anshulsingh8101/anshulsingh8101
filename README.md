@@ -1,4 +1,4 @@
-![](https://github.com/anshulsingh8101/anshulsingh8101/blob/main/linkedin_profile_pic.png?raw=true)
+![](https://github.com/anshulsingh8101/anshulsingh8101/blob/main/1.png?raw=true)
 <h1 align="center">Hola 👋, I'm Anshul Singh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
